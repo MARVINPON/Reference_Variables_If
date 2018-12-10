@@ -51,6 +51,7 @@ void draw(){
     speedy=15;
  
 }
+}
   
 
 
